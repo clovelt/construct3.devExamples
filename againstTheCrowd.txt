@@ -1,4 +1,6 @@
-Against the crowd
-Clovelt
-Simulation, AI, Boids
-People on the street be like
+Title: An Example Title
+Author: Clovelt
+Tags: Example, Sample, Test
+
+Description:
+This is a simple text file containing descriptions and metadata for demonstration purposes.
